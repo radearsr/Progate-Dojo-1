@@ -1,0 +1,87 @@
+ul {
+  list-style: none;
+}
+
+/*Css Untuk Tag header*/
+.header{
+	height: 90px;
+	background-color: #26d0c9;
+	color:#fff;
+}
+.header-logo{
+	font-size: 36px;
+	padding: 20px 40px;
+	float:left;
+}
+.header-list li{
+	float: left;
+	padding: 33px 20px;
+}
+/*Akhir Css Untuk Tag header*/
+
+/*Css untuk Tag main*/
+.main{
+	padding: 100px 80px;
+}
+.title-content h1{
+	font-size: 140px;
+}
+.title-content h2{
+	font-size: 60px;
+}
+.title-content span{
+	color: #ff4a4a;
+}
+.lessons{
+	height: 500px;
+	
+}
+.copy-container h3{
+	margin-top: 100px;
+	font-size: 28px;
+	border-bottom: 2px solid #dee7ec;
+	padding-bottom: 15px;
+	margin-bottom: 50px;
+}
+.lesson{
+	float:left;
+	margin-right: 40px; 
+}
+.lesson p{
+	margin-top: 30px;
+	font-size: 24px;
+}
+input, textarea{
+	padding:20px;
+	width: 400px;
+	margin-bottom: 30px;
+	border:1px solid #dee7ec;
+	font-size: 18px;
+}
+.contact-form p{
+	margin-bottom: 10px;
+}
+.send{
+	background-color: #DEE7EC;
+	color: #889EAB;
+}
+/*Akhir Css untuk Tag main*/
+
+/*Css Untuk Bagian Footer*/
+.footer{
+	height: 120px;
+	background-color: #2F5167;
+	padding:40px;
+	color: #fff;
+}
+.footer-logo{
+	font-size: 32px;
+	float:left;
+}
+.footer-list{
+	float: right;
+}
+.footer-list li{
+	padding-bottom: 20px;
+}
+/*Akhir Css Untuk Bagian Footer*/
